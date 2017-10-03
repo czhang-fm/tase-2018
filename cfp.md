@@ -6,6 +6,12 @@
                 August 29-31, Guangzhou, China
                   http://tase2018.jnu.edu.cn
 
+              Abstract submission : February 23, 2018
+                 Paper submission : March 2, 2018
+                     Notification : May 6, 2018
+                     Camera-ready : June 6, 2018
+                   Conference data: August 29-31, 2018
+
         For more information email: tase2018@easychair.org
 ******************************************************************
 
