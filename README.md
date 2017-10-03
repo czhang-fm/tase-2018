@@ -1,7 +1,7 @@
 # Welcome to TASE 2018
 
 #### The 12th International Symposium on Theoretical Aspects of Software Engineering
-#### September 5-7, 2018 Guangzhou, China 
+#### August 29-31, 2018 Guangzhou, China 
 
 Call for papers (https://github.com/czhang-fm/tase-2018/blob/master/cfp.md)
 
@@ -18,8 +18,8 @@ Guangzhou ranks first in the number of restaurants and tea-houses in the country
 
 ## Important Dates
 
-- Abstract due: 23 February 2018
-- Paper due: 2 March 2018
-- Notification: 6 May 2018
-- Camera-ready: 6 June 2018
-- Conference: 29-31 August 2018
+- Abstract due: February 23, 2018
+- Paper due: March 2, 2018
+- Notification: May 6, 2018
+- Camera-ready: June 6, 2018
+- Conference: August 29-31, 2018
