@@ -6,13 +6,7 @@
                 August 29-31, Guangzhou, China
                   http://tase2018.jnu.edu.cn
 
-              Abstract submission : February 23, 2018
-              Paper submission : March 2, 2018
-              Notification : May 6, 2018
-              Camera-ready : June 6, 2018
-              Conference data: August 29-31, 2018
-
-        For more information email: tase2018@easychair.org
+         For more information email: tase2018@easychair.org
 ******************************************************************
 
 ## OVERVIEW
@@ -59,24 +53,21 @@ The symposium is devoted to theoretical aspects of software engineering. Topics 
 * Type systems and behavioural typing
 * Tools exploiting theoretical results
 
-----------------
-INVITED SPEAKERS
-----------------
+
+## INVITED SPEAKERS
+
 (To be announced)
 
+## SUBMISSION
 
-----------
-SUBMISSION
-----------
 Submission should be done through the TASE 2018 submission page, handled by the EasyChair conference system:
 
 https://www.easychair.org/conferences/?conf=tase2018
 
 As in previous years, the proceedings of the conference are planned to be published by the IEEE Computer Society Press. Papers must be written in English and not exceed 8 pages in Two-Column IEEE format. 
 
----------------
-IMPORTANT DATES
----------------
+## IMPORTANT DATES
+
 * Abstract submission : February 23, 2018
 * Paper submission : March 2, 2018
 * Notification : May 6, 2018
