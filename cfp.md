@@ -1,8 +1,9 @@
                    TASE 2018 - CALL FOR PAPERS
                    
                 The 12th International Symposium on
-           Theoretical Aspects of Software Engineering
+            Theoretical Aspects of Software Engineering
                            (TASE 2018)
+            
                 August 29-31, Guangzhou, China
 
          For more information email: tase2018@easychair.org
