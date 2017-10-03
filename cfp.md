@@ -74,38 +74,37 @@ As in previous years, the proceedings of the conference are planned to be publis
 * Camera-ready : June 6, 2018
 * Conference data: August 29-31, 2018
 
--------------
-GENERAL CHAIR
--------------
+## GENERAL CHAIR
+
 - Jifeng He          (East China Normal University, China)
 - Jian Weng          (Jinan University, China)
 
------------------
-PROGRAM CO-CHAIRS
------------------
+
+## PROGRAM CO-CHAIRS
+
 - Jun Pang           (University of Luxembourg, Luxembourg)
 - Chenyi Zhang       (Jinan University, China)
 
------------------
-STEERING COMMITTE
------------------
+
+## STEERING COMMITTE
+
 - Keijiro Araki      (Kyushu University, Japan)
 - Jifeng He          (East China Normal University, China) 
 - Michael Hinchey    (Lero, Ireland)
 - Shengchao Qin      (Teesside University, UK)
 - Huibiao Zhu        (East China Normal University, China)
 
-------------------
-PROGRAM COMMITTIEE
-------------------
+
+## PROGRAM COMMITTIEE
+
 (To be added)
 
-----------------
-ORGANIZING CHAIR
-----------------
+
+## ORGANIZING CHAIR
+
 (To be added)
 
-----------------
-PUBLICITY CHAIRS
-----------------
+
+## PUBLICITY CHAIRS
+
 (To be added)
