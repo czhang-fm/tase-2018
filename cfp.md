@@ -1,5 +1,4 @@
                    TASE 2018 - CALL FOR PAPERS
-
 ******************************************************************
                 The 12th International Symposium on
            Theoretical Aspects of Software Engineering
@@ -9,18 +8,17 @@
 
         For more information email: tase2018@easychair.org
 ******************************************************************
---------
-OVERVIEW
---------
+
+## OVERVIEW
+
 The 12th Theoretical Aspects of Software Engineering Conference (TASE 2018) will be held in Guangzhou, China in August, 2018.
 
 Modern society is increasingly dependent on software systems that are becoming larger and more complex. This poses new challenges to the various aspects of software engineering, for instance, software dependability in trusted computing, interaction with physical components in cyber physical systems, distribution in cloud computing applications, etc. Hence, new concepts and methodologies are required to enhance the development of software engineering from theoretical aspects. TASE 2015 aims to provide a forum for people from academia and industry to communicate their latest results on theoretical advances in software engineering. 
 
 TASE 2018 is the 12th in the TASE series. The past TASE symposiums were successfully held in Shanghai ('07), Nanjing ('08), Tianjin ('09), Taipei ('10), Xi'an ('11), Beijing ('12), Birmingham ('13), Changsha('14), Nanjing('15), Shanghai('16) and Nice('17). The proceedings of the TASE 2018 symposium are planned to be published by the IEEE Computer Society Press. The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to appear in a special issue of the Science of Computer Programs journal.
 
-------
-TOPICS
-------
+## TOPICS
+
 The symposium is devoted to theoretical aspects of software engineering. Topics of interest include, but are not limited to:
 
 * Abstract interpretation           
