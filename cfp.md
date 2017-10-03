@@ -4,8 +4,6 @@
            Theoretical Aspects of Software Engineering
                            (TASE 2018)
                 August 29-31, Guangzhou, China
-                  http://tase2018.jnu.edu.cn 
-         (the conference website will be open very soon)
 
          For more information email: tase2018@easychair.org
 ******************************************************************
