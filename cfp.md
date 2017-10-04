@@ -86,7 +86,7 @@ As in previous years, the proceedings of the conference are planned to be publis
 - Chenyi Zhang       (Jinan University, China)
 
 
-## STEERING COMMITTE
+## STEERING COMMITTEE
 
 - Keijiro Araki      (Kyushu University, Japan)
 - Jifeng He          (East China Normal University, China) 
@@ -95,7 +95,7 @@ As in previous years, the proceedings of the conference are planned to be publis
 - Huibiao Zhu        (East China Normal University, China)
 
 
-## PROGRAM COMMITTIEE
+## PROGRAM COMMITTEE
 
 (To be added)
 
